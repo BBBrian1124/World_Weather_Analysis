@@ -1,3 +1,10 @@
+# Adding config.py file to be ignored.
+config.py
+
+# Adding more files to be ignored
+API_practice.ipynb
+The_Random_Module.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
